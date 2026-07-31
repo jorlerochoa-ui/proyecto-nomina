@@ -9,7 +9,7 @@ De manera muy cordial, solicito la revisión del presente desarrollo teniendo en
 ### 1. Uso de lenguajes de programación puros
 
 Para la realización de la prueba se utilizó **PHP PURO** y **JavaScript PURO**, evitando el uso de frameworks tanto en backend como en frontend, con el propósito de resaltar la aplicación de los principios fundamentales de programación, la lógica implementada y la comprensión del funcionamiento interno de cada proceso.
-Se adiciona en el archivo nomina.sql los scripts para crear la base de datos.
+Se adiciona en el archivo **nomina.sql** los scripts para crear la base de datos.
 
 ### 2. Aplicación de fundamentos de programación
 
@@ -58,6 +58,7 @@ La aplicación utiliza MySQL para el almacenamiento de:
 - Empleados
 - Cargos
 - Liquidaciones semanales
+- Los scripts de creacion de la base de datos se encuentra en el archivo **nomina.sql**
 - Las tablas tienen registros de referencia que pueden ser modificados o suprimidos desde la plataforma
 
 ---
