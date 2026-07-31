@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost
--- Tiempo de generación: 31-07-2026 a las 22:53:58
+-- Tiempo de generación: 31-07-2026 a las 23:18:23
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.0.30
 
@@ -42,10 +42,10 @@ CREATE TABLE `cargos` (
 --
 
 INSERT INTO `cargos` (`id_cargo`, `nombre_cargo`, `valor_hora`, `valor_hora_extra`, `horas_trabajo_diario`, `fecha_creacion`, `fecha_modificacion`) VALUES
-(1, 'Vendedor', 25000.00, 3.00, 3, '2026-07-31 13:59:21', '2026-07-31 20:22:36'),
-(2, 'Desarrollador', 25000.00, 6.00, 6, '2026-07-31 14:34:46', '2026-07-31 20:22:39'),
-(3, 'Asistente Gerencia', 25000.00, 5.00, 5, '2026-07-31 14:35:39', '2026-07-31 20:22:43'),
-(7, 'Gerente', 120000.00, 145000.00, 8, '2026-07-31 20:44:42', '2026-07-31 20:44:42');
+(1, 'Vendedor', 25000.00, 35000.00, 3, '2026-07-31 13:59:21', '2026-07-31 21:16:28'),
+(2, 'Desarrollador', 25000.00, 35000.00, 6, '2026-07-31 14:34:46', '2026-07-31 21:16:34'),
+(3, 'Asistente Gerencia', 25000.00, 35000.00, 5, '2026-07-31 14:35:39', '2026-07-31 21:17:11'),
+(7, 'Gerente', 25000.00, 35000.00, 8, '2026-07-31 20:44:42', '2026-07-31 21:18:13');
 
 -- --------------------------------------------------------
 
